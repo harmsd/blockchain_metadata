@@ -1,0 +1,29 @@
+{
+  "name": "Виртуальный Сад #101",
+  "description": "Цифровой актив с уникальными характеристиками и свойствами",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
+  "attributes": [
+    {
+      "trait_type": "Технология",
+      "value": "Трансцендентная"
+    },
+    {
+      "trait_type": "Эра",
+      "value": "Древняя"
+    },
+    {
+      "trait_type": "Космос",
+      "value": "Значение 19"
+    },
+    {
+      "trait_type": "Природа",
+      "value": "Значение 78"
+    },
+    {
+      "trait_type": "Уровень энергии",
+      "value": 53
+    }
+  ],
+  "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
+  "background_color": "51abf5"
+}

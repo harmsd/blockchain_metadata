@@ -1,0 +1,25 @@
+{
+  "name": "Будущее Настоящее #102",
+  "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/toxic.jpg",
+  "attributes": [
+    {
+      "trait_type": "Стихия",
+      "value": "Вода"
+    },
+    {
+      "trait_type": "Магия",
+      "value": "Абсолютная"
+    },
+    {
+      "trait_type": "Редкость",
+      "value": "Мифический"
+    },
+    {
+      "trait_type": "Уровень энергии",
+      "value": 61
+    }
+  ],
+  "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
+  "background_color": "6e23d2"
+}

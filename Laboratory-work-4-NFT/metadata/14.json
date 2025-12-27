@@ -1,0 +1,29 @@
+{
+  "name": "Будущее Настоящее #14",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
+  "attributes": [
+    {
+      "trait_type": "Редкость",
+      "value": "Легендарный"
+    },
+    {
+      "trait_type": "Эра",
+      "value": "Средневековая"
+    },
+    {
+      "trait_type": "Магия",
+      "value": "Без магии"
+    },
+    {
+      "trait_type": "Космос",
+      "value": "Значение 91"
+    },
+    {
+      "trait_type": "Уровень энергии",
+      "value": 45
+    }
+  ],
+  "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
+  "background_color": "28a299"
+}

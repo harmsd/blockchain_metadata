@@ -1,0 +1,28 @@
+{
+  "name": "Сочный обед",
+  "description": "Сочный обед в Бауманской столовке",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_lab/refs/heads/master/laba4_v2/metadata/churkin_obed.png",
+  "attributes": [
+    {
+      "trait_type": "Тип супа",
+      "value": "Харчо"
+    },
+    {
+      "trait_type": "Сезон",
+      "value": "Осень"
+    },
+    {
+      "trait_type": "Пара",
+      "value": 2
+    },
+    {
+      "trait_type": "Польза для здоровья",
+      "value": "Высокая"
+    },
+    {
+      "trait_type": "Уровень редкости",
+      "value": "Обычный типок"
+    }
+  ]
+
+}

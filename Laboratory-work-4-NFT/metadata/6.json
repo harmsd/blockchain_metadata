@@ -1,0 +1,25 @@
+{
+  "name": "Будущее Настоящее #6",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_lab/refs/heads/master/laba4_v2/metadata/kashirin.png",
+  "attributes": [
+    {
+      "trait_type": "Энергия",
+      "value": "Значение 28"
+    },
+    {
+      "trait_type": "Мощность",
+      "value": "Мощный"
+    },
+    {
+      "trait_type": "Космос",
+      "value": "Значение 76"
+    },
+    {
+      "trait_type": "Уровень энергии",
+      "value": 67
+    }
+  ],
+  "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
+  "background_color": "84d25e"
+}

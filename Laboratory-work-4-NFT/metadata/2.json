@@ -1,0 +1,27 @@
+{
+  "name": "Бауманский шумахер",
+  "description": "Умные мысли часто преследовали его, но он всегда был быстрее",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_lab/refs/heads/master/laba4_v2/metadata/churkin_voditel.png",
+  "attributes": [
+    {
+      "trait_type": "Тип гонщика",
+      "value": "Отмороженный"
+    },
+    {
+      "trait_type": "Сезон",
+      "value": "Лето"
+    },
+    {
+      "trait_type": "Количество колес на машине",
+      "value": 3
+    },
+    {
+      "trait_type": "Польза для здоровья",
+      "value": "Отсутствует"
+    },
+    {
+      "trait_type": "Уровень редкости",
+      "value": "Редкий типок"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Cash NFT #100",
+  "description": "Редкий NFT с изображением денег - экземпляр #100",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
+  "attributes": [
+    {
+      "trait_type": "Тип",
+      "value": "Деньги"
+    },
+    {
+      "trait_type": "Редкость",
+      "value": "Обычный"
+    },
+    {
+      "trait_type": "Номер",
+      "value": 100
+    },
+    {
+      "trait_type": "Уникальность",
+      "value": "ID-100"
+    }
+  ]
+}

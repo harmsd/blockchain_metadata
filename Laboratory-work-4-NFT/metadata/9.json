@@ -1,0 +1,25 @@
+{
+  "name": "Цифровая Мечта #9",
+  "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_lab/refs/heads/master/laba4_v2/metadata/vorishka.png",
+  "attributes": [
+    {
+      "trait_type": "Космос",
+      "value": "Значение 68"
+    },
+    {
+      "trait_type": "Технология",
+      "value": "Футуристическая"
+    },
+    {
+      "trait_type": "Эра",
+      "value": "Древняя"
+    },
+    {
+      "trait_type": "Уровень энергии",
+      "value": 95
+    }
+  ],
+  "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
+  "background_color": "b1ee26"
+}

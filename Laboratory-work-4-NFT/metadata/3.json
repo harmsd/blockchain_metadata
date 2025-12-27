@@ -1,0 +1,27 @@
+{
+  "name": "Настоящие друзья",
+  "description": "Их дружба настолько успешна, как айфон на который их сфотографировали",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_lab/refs/heads/master/laba4_v2/metadata/friends.png",
+  "attributes": [
+    {
+      "trait_type": "Тип друзей",
+      "value": "Настоящий"
+    },
+    {
+      "trait_type": "Сезон",
+      "value": "Лето"
+    },
+    {
+      "trait_type": "Количество адекватных людей на фото",
+      "value": 0
+    },
+    {
+      "trait_type": "Польза для общества",
+      "value": "Отсуствует"
+    },
+    {
+      "trait_type": "Уровень редкости",
+      "value": "Эпический"
+    }
+  ]
+}

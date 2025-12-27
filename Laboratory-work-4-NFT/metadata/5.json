@@ -1,0 +1,37 @@
+{
+  "name": "Электронная Эмоция #5",
+  "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_lab/refs/heads/master/laba4_v2/metadata/kashirin_sport.png",
+  "attributes": [
+    {
+      "trait_type": "Мощность",
+      "value": "Слабый"
+    },
+    {
+      "trait_type": "Энергия",
+      "value": "Значение 65"
+    },
+    {
+      "trait_type": "Стихия",
+      "value": "Воздух"
+    },
+    {
+      "trait_type": "Редкость",
+      "value": "Легендарный"
+    },
+    {
+      "trait_type": "Магия",
+      "value": "Низкая"
+    },
+    {
+      "trait_type": "Время",
+      "value": "Значение 17"
+    },
+    {
+      "trait_type": "Уровень энергии",
+      "value": 18
+    }
+  ],
+  "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
+  "background_color": "cd5c96"
+}

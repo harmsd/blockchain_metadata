@@ -1,0 +1,19 @@
+{
+  "name": "NFT #1",
+  "description": "Автоматически созданный NFT номер 1",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/kiwi.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Тип",
+      "value": "Автоматический"
+    },
+    {
+      "trait_type": "Номер",
+      "value": "1"
+    },
+    {
+      "trait_type": "Создан",
+      "value": "Программно"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Цифровой Ветер #100",
+  "description": "Коллекционный токен, открывающий новые возможности в Web3",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/toxic.jpg",
+  "attributes": [
+    {
+      "trait_type": "Природа",
+      "value": "Значение 44"
+    },
+    {
+      "trait_type": "Магия",
+      "value": "Без магии"
+    },
+    {
+      "trait_type": "Время",
+      "value": "Значение 84"
+    },
+    {
+      "trait_type": "Уровень энергии",
+      "value": 62
+    }
+  ],
+  "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
+  "background_color": "397aab"
+}

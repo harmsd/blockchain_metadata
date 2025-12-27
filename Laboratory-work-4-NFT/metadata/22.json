@@ -1,0 +1,19 @@
+{
+  "name": "NFT #3",
+  "description": "Автоматически созданный NFT номер 3",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/kiwi.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Тип",
+      "value": "Автоматический"
+    },
+    {
+      "trait_type": "Номер",
+      "value": "3"
+    },
+    {
+      "trait_type": "Создан",
+      "value": "Программно"
+    }
+  ]
+}

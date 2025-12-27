@@ -1,0 +1,33 @@
+{
+  "name": "Цифровой Ветер #10",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_lab/refs/heads/master/laba4_v2/metadata/yatskov_zloy.png",
+  "attributes": [
+    {
+      "trait_type": "Редкость",
+      "value": "Мифический"
+    },
+    {
+      "trait_type": "Космос",
+      "value": "Значение 14"
+    },
+    {
+      "trait_type": "Технология",
+      "value": "Трансцендентная"
+    },
+    {
+      "trait_type": "Мощность",
+      "value": "Мощный"
+    },
+    {
+      "trait_type": "Стихия",
+      "value": "Вода"
+    },
+    {
+      "trait_type": "Уровень энергии",
+      "value": 51
+    }
+  ],
+  "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
+  "background_color": "750fa3"
+}

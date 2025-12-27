@@ -1,0 +1,29 @@
+{
+  "name": "Виртуальный Сад #8",
+  "description": "Цифровой актив с уникальными характеристиками и свойствами",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_lab/refs/heads/master/laba4_v2/metadata/kruchkov.png",
+  "attributes": [
+    {
+      "trait_type": "Стихия",
+      "value": "Земля"
+    },
+    {
+      "trait_type": "Эра",
+      "value": "Средневековая"
+    },
+    {
+      "trait_type": "Космос",
+      "value": "Значение 90"
+    },
+    {
+      "trait_type": "Магия",
+      "value": "Высокая"
+    },
+    {
+      "trait_type": "Уровень энергии",
+      "value": 59
+    }
+  ],
+  "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
+  "background_color": "78e495"
+}
