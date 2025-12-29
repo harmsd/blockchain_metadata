@@ -1,19 +1,19 @@
 {
-  "name": "Экзотическая черепаха",
-  "description": "Редкая зеленая черепаха с возможностью сбивать вражеские дроны",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/kashirin_reb.png",
+  "name": "Важный тип",
+  "description": "Редкостный отморозок",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/knyazev.png",
   "attributes": [
     {
-      "trait_type": "Тип черепахи",
-      "value": "КРАБ"
+      "trait_type": "Тип",
+      "value": "Важный"
     },
     {
       "trait_type": "Сезон",
       "value": "Круглый год"
     },
     {
-      "trait_type": "Количество антенн",
-      "value": 10
+      "trait_type": "Количество преступлений",
+      "value": "Отсутствуют, так как он только выпендривается"
     },
     {
       "trait_type": "Цвет",
