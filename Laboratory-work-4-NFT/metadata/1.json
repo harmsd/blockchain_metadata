@@ -1,7 +1,7 @@
 {
-  "name": "Сочный обед",
+  "name": "Он вам не павлик",
   "description": "Сочный обед в Бауманской столовке",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/yatskov.jpg",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/notPetya.png",
   "attributes": [
     {
       "trait_type": "Тип супа",
