@@ -1,7 +1,7 @@
 {
   "name": "Настоящие друзья",
   "description": "Их дружба настолько успешна, как айфон на который их сфотографировали",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_lab/refs/heads/master/laba4_v2/metadata/friends.png",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/friends.png",
   "attributes": [
     {
       "trait_type": "Тип друзей",

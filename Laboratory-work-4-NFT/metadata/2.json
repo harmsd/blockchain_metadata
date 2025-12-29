@@ -1,7 +1,7 @@
 {
   "name": "Бауманский шумахер",
   "description": "Умные мысли часто преследовали его, но он всегда был быстрее",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_lab/refs/heads/master/laba4_v2/metadata/churkin_voditel.png",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/churkin_voditel.png",
   "attributes": [
     {
       "trait_type": "Тип гонщика",

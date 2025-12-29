@@ -1,7 +1,7 @@
 {
   "name": "Электронная Эмоция #7",
   "description": "Редкий коллекционный предмет из цифровой вселенной",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_lab/refs/heads/master/laba4_v2/metadata/knyazev.png",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/knyazev.png",
   "attributes": [
     {
       "trait_type": "Редкость",

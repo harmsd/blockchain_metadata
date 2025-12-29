@@ -1,7 +1,7 @@
 {
   "name": "Цифровой Ветер #10",
   "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_lab/refs/heads/master/laba4_v2/metadata/yatskov_zloy.png",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/yatskov_zloy.png",
   "attributes": [
     {
       "trait_type": "Редкость",

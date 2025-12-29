@@ -1,7 +1,7 @@
 {
   "name": "Будущее Настоящее #12",
   "description": "Коллекционный токен, открывающий новые возможности в Web3",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_lab/refs/heads/master/laba4_v2/metadata/yatskov.jpg",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/yatskov.jpg",
   "attributes": [
     {
       "trait_type": "Стихия",

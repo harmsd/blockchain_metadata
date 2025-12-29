@@ -1,7 +1,7 @@
 {
   "name": "Электронная Эмоция #5",
   "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_lab/refs/heads/master/laba4_v2/metadata/kashirin_sport.png",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/kashirin_sport.png",
   "attributes": [
     {
       "trait_type": "Мощность",

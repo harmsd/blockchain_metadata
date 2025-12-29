@@ -1,7 +1,7 @@
 {
   "name": "NFT #2",
   "description": "Автоматически созданный NFT номер 2",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/kiwi.jpeg",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/yatskov.jpg",
   "attributes": [
     {
       "trait_type": "Тип",

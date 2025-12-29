@@ -1,7 +1,7 @@
 {
   "name": "Цифровая Мечта #9",
   "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_lab/refs/heads/master/laba4_v2/metadata/vorishka.png",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/vorishka.png",
   "attributes": [
     {
       "trait_type": "Космос",
