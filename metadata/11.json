@@ -1,25 +1,29 @@
 {
-  "name": "Электронная Эмоция #11",
-  "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/yatskov_zloy.png",
+  "name": "Вечный Момент #11",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/collection_image.png",
   "attributes": [
     {
-      "trait_type": "Редкость",
-      "value": "Мифический"
+      "trait_type": "Технология",
+      "value": "Трансцендентная"
     },
     {
-      "trait_type": "Энергия",
-      "value": "Значение 75"
+      "trait_type": "Эра",
+      "value": "Средневековая"
     },
     {
-      "trait_type": "Время",
-      "value": "Значение 21"
+      "trait_type": "Мощность",
+      "value": "Сильный"
+    },
+    {
+      "trait_type": "Стихия",
+      "value": "Эфир"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 92
+      "value": 14
     }
   ],
   "external_url": "https://github.com/harmsd/blockchain_metadata",
-  "background_color": "ef11aa"
+  "background_color": "e83fd1"
 }
