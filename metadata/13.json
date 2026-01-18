@@ -1,0 +1,37 @@
+{
+  "name": "Вечный Момент #13",
+  "description": "Коллекционный токен, открывающий новые возможности в Web3",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/vorishka.png",
+  "attributes": [
+    {
+      "trait_type": "Редкость",
+      "value": "Редкий"
+    },
+    {
+      "trait_type": "Стихия",
+      "value": "Воздух"
+    },
+    {
+      "trait_type": "Технология",
+      "value": "Передовая"
+    },
+    {
+      "trait_type": "Космос",
+      "value": "Значение 45"
+    },
+    {
+      "trait_type": "Эра",
+      "value": "Вневременная"
+    },
+    {
+      "trait_type": "Энергия",
+      "value": "Значение 86"
+    },
+    {
+      "trait_type": "Уровень энергии",
+      "value": 30
+    }
+  ],
+  "external_url": "https://github.com/harmsd/blockchain_metadata",
+  "background_color": "e872b9"
+}
