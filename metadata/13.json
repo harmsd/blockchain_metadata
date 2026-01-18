@@ -1,37 +1,37 @@
 {
-  "name": "Вечный Момент #13",
-  "description": "Коллекционный токен, открывающий новые возможности в Web3",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/vorishka.png",
+  "name": "Небесный Код #13",
+  "description": "Редкий коллекционный предмет из цифровой вселенной",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/dobryaki.png",
   "attributes": [
     {
       "trait_type": "Редкость",
       "value": "Редкий"
     },
     {
-      "trait_type": "Стихия",
-      "value": "Воздух"
+      "trait_type": "Мощность",
+      "value": "Слабый"
     },
     {
-      "trait_type": "Технология",
-      "value": "Передовая"
-    },
-    {
-      "trait_type": "Космос",
+      "trait_type": "Время",
       "value": "Значение 45"
     },
     {
-      "trait_type": "Эра",
-      "value": "Вневременная"
+      "trait_type": "Энергия",
+      "value": "Значение 91"
     },
     {
-      "trait_type": "Энергия",
-      "value": "Значение 86"
+      "trait_type": "Природа",
+      "value": "Значение 74"
+    },
+    {
+      "trait_type": "Магия",
+      "value": "Низкая"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 30
+      "value": 100
     }
   ],
   "external_url": "https://github.com/harmsd/blockchain_metadata",
-  "background_color": "e872b9"
+  "background_color": "d5afd7"
 }
