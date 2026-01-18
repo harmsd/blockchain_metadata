@@ -1,37 +1,29 @@
 {
-  "name": "Небесный Код #13",
-  "description": "Редкий коллекционный предмет из цифровой вселенной",
+  "name": "Цифровая Мечта #13",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
   "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/dobryaki.png",
   "attributes": [
     {
-      "trait_type": "Редкость",
-      "value": "Редкий"
-    },
-    {
-      "trait_type": "Мощность",
-      "value": "Слабый"
+      "trait_type": "Энергия",
+      "value": "Значение 31"
     },
     {
       "trait_type": "Время",
-      "value": "Значение 45"
+      "value": "Значение 66"
     },
     {
-      "trait_type": "Энергия",
-      "value": "Значение 91"
+      "trait_type": "Технология",
+      "value": "Развитая"
     },
     {
-      "trait_type": "Природа",
-      "value": "Значение 74"
-    },
-    {
-      "trait_type": "Магия",
-      "value": "Низкая"
+      "trait_type": "Стихия",
+      "value": "Воздух"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 100
+      "value": 49
     }
   ],
   "external_url": "https://github.com/harmsd/blockchain_metadata",
-  "background_color": "d5afd7"
+  "background_color": "e5992c"
 }
