@@ -1,0 +1,25 @@
+{
+  "name": "Электронная Эмоция #11",
+  "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/yatskov_zloy.png",
+  "attributes": [
+    {
+      "trait_type": "Редкость",
+      "value": "Мифический"
+    },
+    {
+      "trait_type": "Энергия",
+      "value": "Значение 75"
+    },
+    {
+      "trait_type": "Время",
+      "value": "Значение 21"
+    },
+    {
+      "trait_type": "Уровень энергии",
+      "value": 92
+    }
+  ],
+  "external_url": "https://github.com/harmsd/blockchain_metadata",
+  "background_color": "ef11aa"
+}
