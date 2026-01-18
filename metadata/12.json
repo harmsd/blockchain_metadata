@@ -1,29 +1,37 @@
 {
-  "name": "Таинственный Артефакт #12",
-  "description": "Редкий коллекционный предмет из цифровой вселенной",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/collection_image.png",
+  "name": "Космический Путешественник #12",
+  "description": "Цифровой актив с уникальными характеристиками и свойствами",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/yatskov_zloy.png",
   "attributes": [
     {
-      "trait_type": "Природа",
-      "value": "Значение 14"
-    },
-    {
-      "trait_type": "Время",
-      "value": "Значение 97"
+      "trait_type": "Эра",
+      "value": "Современная"
     },
     {
       "trait_type": "Магия",
-      "value": "Низкая"
+      "value": "Средняя"
     },
     {
-      "trait_type": "Космос",
-      "value": "Значение 63"
+      "trait_type": "Технология",
+      "value": "Футуристическая"
+    },
+    {
+      "trait_type": "Мощность",
+      "value": "Сильный"
+    },
+    {
+      "trait_type": "Природа",
+      "value": "Значение 98"
+    },
+    {
+      "trait_type": "Время",
+      "value": "Значение 18"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 63
+      "value": 71
     }
   ],
   "external_url": "https://github.com/harmsd/blockchain_metadata",
-  "background_color": "4f25f5"
+  "background_color": "ada02f"
 }
