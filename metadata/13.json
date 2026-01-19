@@ -1,29 +1,29 @@
 {
-  "name": "Цифровая Мечта #13",
-  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "name": "Космический Путешественник #13",
+  "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
   "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/dobryaki.png",
   "attributes": [
     {
-      "trait_type": "Энергия",
-      "value": "Значение 31"
+      "trait_type": "Редкость",
+      "value": "Обычный"
     },
     {
-      "trait_type": "Время",
-      "value": "Значение 66"
+      "trait_type": "Эра",
+      "value": "Древняя"
+    },
+    {
+      "trait_type": "Мощность",
+      "value": "Всесильный"
     },
     {
       "trait_type": "Технология",
-      "value": "Развитая"
-    },
-    {
-      "trait_type": "Стихия",
-      "value": "Воздух"
+      "value": "Передовая"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 49
+      "value": 91
     }
   ],
   "external_url": "https://github.com/harmsd/blockchain_metadata",
-  "background_color": "e5992c"
+  "background_color": "4eeb3d"
 }
