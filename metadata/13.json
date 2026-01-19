@@ -1,33 +1,33 @@
 {
-  "name": "Виртуальный Сад #13",
-  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/yatskov.jpg",
+  "name": "Звездная Пыль #13",
+  "description": "Коллекционный токен, открывающий новые возможности в Web3",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/yatskov_zloy.png",
   "attributes": [
     {
       "trait_type": "Редкость",
-      "value": "Обычный"
+      "value": "Эпический"
     },
     {
-      "trait_type": "Космос",
-      "value": "Значение 65"
+      "trait_type": "Природа",
+      "value": "Значение 62"
     },
     {
       "trait_type": "Время",
-      "value": "Значение 95"
+      "value": "Значение 22"
     },
     {
-      "trait_type": "Стихия",
-      "value": "Земля"
+      "trait_type": "Технология",
+      "value": "Развитая"
     },
     {
-      "trait_type": "Энергия",
-      "value": "Значение 66"
+      "trait_type": "Космос",
+      "value": "Значение 76"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 55
+      "value": 11
     }
   ],
   "external_url": "https://github.com/harmsd/blockchain_metadata",
-  "background_color": "dd19fe"
+  "background_color": "188148"
 }
