@@ -1,25 +1,25 @@
 {
-  "name": "Будущее Настоящее #11",
-  "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/yatskov_zloy.png",
+  "name": "Небесный Код #11",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/dobryaki.png",
   "attributes": [
     {
-      "trait_type": "Эра",
-      "value": "Футуристическая"
+      "trait_type": "Мощность",
+      "value": "Мощный"
     },
     {
-      "trait_type": "Природа",
-      "value": "Значение 65"
+      "trait_type": "Редкость",
+      "value": "Обычный"
     },
     {
-      "trait_type": "Магия",
-      "value": "Без магии"
+      "trait_type": "Время",
+      "value": "Значение 32"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 84
+      "value": 55
     }
   ],
   "external_url": "https://github.com/harmsd/blockchain_metadata",
-  "background_color": "061f72"
+  "background_color": "ac6f75"
 }
