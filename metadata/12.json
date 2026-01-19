@@ -1,29 +1,25 @@
 {
-  "name": "Электронная Эмоция #12",
-  "description": "Редкий коллекционный предмет из цифровой вселенной",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/yatskov_zloy.png",
+  "name": "Вечный Момент #12",
+  "description": "Цифровой актив с уникальными характеристиками и свойствами",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/dobryaki.png",
   "attributes": [
     {
-      "trait_type": "Природа",
-      "value": "Значение 71"
+      "trait_type": "Время",
+      "value": "Значение 42"
     },
     {
       "trait_type": "Эра",
       "value": "Вневременная"
     },
     {
-      "trait_type": "Технология",
-      "value": "Трансцендентная"
-    },
-    {
-      "trait_type": "Энергия",
-      "value": "Значение 81"
+      "trait_type": "Стихия",
+      "value": "Вода"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 91
+      "value": 7
     }
   ],
   "external_url": "https://github.com/harmsd/blockchain_metadata",
-  "background_color": "009eda"
+  "background_color": "eee30d"
 }
