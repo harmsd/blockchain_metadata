@@ -1,29 +1,29 @@
 {
-  "name": "Виртуальный Сад #12",
-  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/yatskov_zloy.png",
+  "name": "Небесный Код #12",
+  "description": "Редкий коллекционный предмет из цифровой вселенной",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/yatskov.jpg",
   "attributes": [
     {
-      "trait_type": "Время",
-      "value": "Значение 94"
-    },
-    {
-      "trait_type": "Редкость",
-      "value": "Мифический"
-    },
-    {
-      "trait_type": "Стихия",
-      "value": "Огонь"
-    },
-    {
       "trait_type": "Космос",
-      "value": "Значение 56"
+      "value": "Значение 69"
+    },
+    {
+      "trait_type": "Эра",
+      "value": "Вневременная"
+    },
+    {
+      "trait_type": "Мощность",
+      "value": "Всесильный"
+    },
+    {
+      "trait_type": "Магия",
+      "value": "Высокая"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 49
+      "value": 60
     }
   ],
   "external_url": "https://github.com/harmsd/blockchain_metadata",
-  "background_color": "cb6a2d"
+  "background_color": "4f8f5a"
 }
