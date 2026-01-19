@@ -1,25 +1,29 @@
 {
-  "name": "Таинственный Артефакт #12",
-  "description": "Цифровой актив с уникальными характеристиками и свойствами",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/vorishka.png",
+  "name": "Электронная Эмоция #12",
+  "description": "Редкий коллекционный предмет из цифровой вселенной",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/yatskov_zloy.png",
   "attributes": [
     {
-      "trait_type": "Стихия",
-      "value": "Земля"
-    },
-    {
-      "trait_type": "Технология",
-      "value": "Передовая"
+      "trait_type": "Природа",
+      "value": "Значение 71"
     },
     {
       "trait_type": "Эра",
-      "value": "Древняя"
+      "value": "Вневременная"
+    },
+    {
+      "trait_type": "Технология",
+      "value": "Трансцендентная"
+    },
+    {
+      "trait_type": "Энергия",
+      "value": "Значение 81"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 10
+      "value": 91
     }
   ],
   "external_url": "https://github.com/harmsd/blockchain_metadata",
-  "background_color": "4e1aed"
+  "background_color": "009eda"
 }
