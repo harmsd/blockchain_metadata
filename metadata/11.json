@@ -1,25 +1,33 @@
 {
-  "name": "Космический Путешественник #11",
-  "description": "Редкий коллекционный предмет из цифровой вселенной",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/dobryaki.png",
+  "name": "Цифровая Мечта #11",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/yatskov.jpg",
   "attributes": [
     {
-      "trait_type": "Технология",
-      "value": "Трансцендентная"
-    },
-    {
       "trait_type": "Стихия",
-      "value": "Земля"
+      "value": "Огонь"
     },
     {
-      "trait_type": "Природа",
-      "value": "Значение 74"
+      "trait_type": "Технология",
+      "value": "Футуристическая"
+    },
+    {
+      "trait_type": "Эра",
+      "value": "Вневременная"
+    },
+    {
+      "trait_type": "Редкость",
+      "value": "Эпический"
+    },
+    {
+      "trait_type": "Время",
+      "value": "Значение 26"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 77
+      "value": 99
     }
   ],
   "external_url": "https://github.com/harmsd/blockchain_metadata",
-  "background_color": "5476b8"
+  "background_color": "c2f04d"
 }
