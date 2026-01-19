@@ -1,29 +1,37 @@
 {
-  "name": "Космический Путешественник #13",
+  "name": "Небесный Код #13",
   "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
   "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/dobryaki.png",
   "attributes": [
     {
-      "trait_type": "Редкость",
-      "value": "Обычный"
-    },
-    {
       "trait_type": "Эра",
-      "value": "Древняя"
+      "value": "Современная"
     },
     {
-      "trait_type": "Мощность",
-      "value": "Всесильный"
+      "trait_type": "Магия",
+      "value": "Средняя"
     },
     {
-      "trait_type": "Технология",
-      "value": "Передовая"
+      "trait_type": "Стихия",
+      "value": "Вода"
+    },
+    {
+      "trait_type": "Время",
+      "value": "Значение 66"
+    },
+    {
+      "trait_type": "Природа",
+      "value": "Значение 65"
+    },
+    {
+      "trait_type": "Редкость",
+      "value": "Легендарный"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 91
+      "value": 28
     }
   ],
   "external_url": "https://github.com/harmsd/blockchain_metadata",
-  "background_color": "4eeb3d"
+  "background_color": "a4786d"
 }
