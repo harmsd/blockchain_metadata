@@ -1,25 +1,29 @@
 {
-  "name": "Небесный Код #11",
-  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
-  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/dobryaki.png",
+  "name": "Звездная Пыль #11",
+  "description": "Цифровой актив с уникальными характеристиками и свойствами",
+  "image": "https://raw.githubusercontent.com/harmsd/blockchain_metadata/refs/heads/main/Laboratory-work-4-NFT/image/yatskov_zloy.png",
   "attributes": [
     {
+      "trait_type": "Стихия",
+      "value": "Воздух"
+    },
+    {
+      "trait_type": "Технология",
+      "value": "Развитая"
+    },
+    {
+      "trait_type": "Энергия",
+      "value": "Значение 50"
+    },
+    {
       "trait_type": "Мощность",
-      "value": "Мощный"
-    },
-    {
-      "trait_type": "Редкость",
-      "value": "Обычный"
-    },
-    {
-      "trait_type": "Время",
-      "value": "Значение 32"
+      "value": "Слабый"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 55
+      "value": 25
     }
   ],
   "external_url": "https://github.com/harmsd/blockchain_metadata",
-  "background_color": "ac6f75"
+  "background_color": "ae2d1f"
 }
